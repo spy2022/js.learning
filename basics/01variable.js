@@ -1,10 +1,14 @@
 const accountId=234
 let accountname="nitin"
-var accountpassword="234"
+var accountpassword="7t834vsdhf"
 accountcity="jaipur"
+let accountstate;
+
+
+accountname="bond  ight"
 
 // accountId=762
 // console.log(accountcity);
 console.log(accountId);
 
-console.table([accountId,accountname,accountpassword,accountcity]);
+console.table([accountId,accountname,accountpassword,accountcity,accountstate]);
